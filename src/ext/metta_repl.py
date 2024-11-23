@@ -1,1 +1,0 @@
-../../tests/python_compat/hyperon-experimental_python/sandbox/repl/metta_repl.py
